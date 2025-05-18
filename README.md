@@ -1,1 +1,1 @@
-# bird-app
+A simple Bird App using Python
